@@ -1,2 +1,3 @@
-# sql_practice: SQL practice code
-Just an SQL practice repository. Currently following the MySQL Data Analytics and BI course on Udemy. 
+# Exercises: MySQL Data Analytics and BI course on Udemy
+Exercises from course MySQL Data Analytics and BI course on Udemy. 
+
