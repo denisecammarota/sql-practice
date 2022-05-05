@@ -1,0 +1,1 @@
+select distinct hire_date from employees; 
